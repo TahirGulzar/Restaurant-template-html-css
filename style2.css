@@ -1,0 +1,43 @@
+
+
+
+
+
+
+
+
+
+
+
+
+   
+    
+    .link-dpl{
+        height: 70vh;
+        width: 20vw;
+    }
+    .link-two{
+        padding-top: 0;
+    }
+}
+ 
+    .footer{
+        margin-top: 232%;
+        height: 300vh;
+    }
+    .link-dpl{
+       align-items: center;
+        height: 50vh;
+        width: 40vw;
+    }
+    .link-two{
+        padding-top: 0;
+    }
+    .last-bar{
+        display: flex;
+        position: relative;
+        bottom: -10%;
+        left: 0%;
+    }
+}
+ 
